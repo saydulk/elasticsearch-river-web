@@ -45,7 +45,7 @@
 	</repositories>
 	<properties>
 		<elasticsearch.version>1.5.2</elasticsearch.version>
-		<lastadi.version>0.6.1</lastadi.version>
+		<lastadi.version>0.8.3</lastadi.version>
 		<s2robot.version>1.0.0-SNAPSHOT</s2robot.version>
 		<jta.version>1.2</jta.version>
 		<slf4j.version>1.7.12</slf4j.version>
